@@ -18,3 +18,14 @@
 ### 10. 관리자 페이지
 ### 11. 검색 기능
 ### 12. 비밀번호 변경 기능
+
+
+## 존재 취약점
+### - SQL Injection
+### - Cross-Site Script
+### - Cross-Site Request Forgery
+### - File Inclusion
+### - Path traversal
+### - Server Side Request Forgery
+### - Information Disclosure
+### - Insecure Direct Object Reference
