@@ -29,3 +29,6 @@
 ### - Server Side Request Forgery
 ### - Information Disclosure
 ### - Insecure Direct Object Reference
+
+## API 서버
+https://github.com/jy05un/SSRF_SKROOKIES
